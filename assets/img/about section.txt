@@ -1,0 +1,61 @@
+ <div class="section-full welcome-section-outer">
+            <div class="welcome-section-top bg-white p-t80 p-b50">
+                <div class="container">
+                    <div class="row d-flex justify-content-center">
+                    
+                     
+                        
+                        <!-- <div class="col-lg-6 col-md-12 m-b30">
+                            <div class="img-colarge2">
+                                <div class="colarge-2 slide-right"><img src="./assets/img/about_us1.jpg" alt=""></div>
+                                <div class="colarge-2-1"><img src="./assets/img/s11.jpg" alt=""></div>
+                                <div class="since-year-outer2"><div class="since-year2"><span>Since</span><strong>2013</strong></div></div>
+                            </div>
+                        </div>  -->
+
+                        <div class="col-lg-6 col-md-12">
+                            <div class="img-colarge">
+                                <div class="colarge-1"><img src="./assets/img/about__us.jpg" alt="" class="slide-righ"></div>
+                                <div class="since-year-outer"><div class="since-year"><span>Since</span><strong>2013</strong></div></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12 m-b30">
+                            <div class="welcom-to-section">
+                                <!-- TITLE START-->
+                                <div class="left wt-small-separator-outer">
+                                    <div class="wt-small-separator site-text-primary">
+                                        <!-- <div class="sep-leaf-left"></div> -->
+                                        <h3>Welcome to Vishwakarma Engineering</h3>
+                                        <div class="sep-leaf-right"></div>
+                                    </div>
+                                </div>
+                                <h2>We Are Here to introduce ourselves as pioneer manufacturer of machine equipment’s and power transmission</h2>
+                                <!-- TITLE END-->
+                                <ul class="site-list-style-one">
+                                    <li>Lastest Technology</li>
+                                    <li>Sophisticated Machines</li>
+                                    <li>Skilled staff</li>
+                                    <li>Market knowledge Experience</li>
+                                </ul>
+                                
+                                <p>Our knowledge and experience allows us to provide a leading edge development program from conceptual and simulations phases to mass production for machine equipment’s and power transmission drives.</p> 
+                                
+
+                                <div class="welcom-to-section-bottom d-flex justify-content-between">   
+                                    <div class="banner-btn">
+                                        <a href="#" class="btn my-4">
+                                            More About
+                                        </a>
+                                    </div>               
+                                    <div class="welcom-sign-info"><strong>HANMANT J. SUTAR</strong><span>( CEO &amp; Founder )</span></div>
+                                </div>
+                                <!-- <div class="welcom-to-section-bottom d-flex justify-content-between">
+                                    <div class="welcom-btn-position"><a href="about-2.html" class="site-button-secondry site-btn-effect">More About</a></div>
+                                </div>    -->
+                            </div>
+                        </div>                             
+
+                    </div>
+                </div> 
+            </div>
+        </div>
